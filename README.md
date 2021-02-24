@@ -1,7 +1,7 @@
 # Crossy-Road-Clone
 DESCRIPTION :
 
-Crossy-Road-clone 
+Crossy-Road-clone. Done Using Unity Game Engine. 
 
 SCREENSHOTS :
 
